@@ -30,6 +30,10 @@ Authors: drjamgo@hotmail.com, Benjamin K. Smith (BenCreating), bluecarrot16, The
 - neck/scarf/red.png: by Nila122, Johannes Sjölund (wulax), Stephen Challener (Redshrike). License(s): CC-BY-SA 3.0, GPL 2.0, GPL 3.0. 
     - https://opengameart.org/content/more-lpc-clothes-and-hair
 
+- gloves/female/black.png: by Michael Whitlock (bigbeargames), Matthew Krohn (makrohn), Johannes Sjölund (wulax), bluecarrot16. License(s): CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/lpc-medieval-fantasy-character-sprites
+    - http://opengameart.org/content/lpc-clothing-updates
+
 - torso/clothes/sleeveless/female/white.png: by ElizaWy, David Conway Jr. (JaidynReiman), Matthew Krohn (makrohn), Marcel van de Steeg (MadMarcel). License(s): CC-BY-SA 3.0, GPL 3.0. 
     - https://opengameart.org/content/lpc-female-orcogregoblintroll-base-walkcycle
     - https://opengameart.org/content/lpc-curly-hair-elven-ears-white-cape-with-blue-trim-and-more
