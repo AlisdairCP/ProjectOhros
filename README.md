@@ -19,6 +19,19 @@ The game takes place in the far distant future, where some humans have developed
 ## Gameplay:
 The game is an action-adventure game using a 2D format. The player takes control of Lila, a witch who is capable of both melee and magic abilities. These are to be used in both combat and adventure sections.
 
+### Moveset:
+
+#### Staff thrust:
+A melee attack where Lila thrusts her staff towards the enemy. Due to its magical properties, it is able to wipe out a human in a single touch.
+
+### Enemies:
+
+#### Agents:
+Health: 1.
+Damage: 1
+
+Description: Human opponents that have been hired by the government to exterminate any mages that appear in the city.
+
 ## Credits:
 
 ### Graphics:
