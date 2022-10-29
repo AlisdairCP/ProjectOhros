@@ -37,3 +37,13 @@ function enemy:on_restarted()
   movement:set_speed(48)
   movement:start(enemy)
 end
+
+-- Update direction.
+function enemy:on_movement_changed(movement)
+  local direction4 = movement:get_direction4()
+  if direction4 then
+    for _, s in enemy:get_sprites() do
+      s:set_direction(direction4)
+    end
+  end
+end
