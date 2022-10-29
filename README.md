@@ -49,6 +49,8 @@ Robots built to counter mages. Were designed to withstand more magic and deal gr
 #### Sprites:
 Universal LPC Spritesheet Generator: https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator/#?body=Body_color_light&head=Human_male_light
 
+Magic - Pixel Art: https://opengameart.org/content/magic-pixel-art
+
 #### Tilesets:
 Skorpio's SciFi Sprite Pack: https://opengameart.org/content/lpc-skorpios-scifi-sprite-pack
 
