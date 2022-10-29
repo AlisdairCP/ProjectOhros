@@ -32,6 +32,12 @@ A melee attack where Lila thrusts her staff towards the enemy. Due to its magica
 
 Human opponents that have been hired by the government to exterminate any mages that appear in the city.
 
+#### Robots:
+- Health: 3
+- Damage: 3
+
+Robots built to counter mages. Were designed to withstand more magic and deal greater damager than the agents, though they move much slower.
+
 ## Credits:
 
 ### Graphics:
