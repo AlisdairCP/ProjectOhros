@@ -34,7 +34,7 @@ function enemy:on_restarted()
 
   movement = sol.movement.create("target")
   movement:set_target(hero)
-  movement:set_speed(48)
+  movement:set_speed(36)
   movement:start(enemy)
 end
 
