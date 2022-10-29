@@ -27,10 +27,10 @@ A melee attack where Lila thrusts her staff towards the enemy. Due to its magica
 ### Enemies:
 
 #### Agents:
-Health: 1.
-Damage: 1
+- Health: 1
+- Damage: 1
 
-Description: Human opponents that have been hired by the government to exterminate any mages that appear in the city.
+Human opponents that have been hired by the government to exterminate any mages that appear in the city.
 
 ## Credits:
 
