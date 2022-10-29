@@ -20,8 +20,13 @@ The game takes place in the far distant future, where some humans have developed
 The game is an action-adventure game using a 2D format. The player takes control of Lila, a witch who is capable of both melee and magic abilities. These are to be used in both combat and adventure sections.
 
 ## Credits:
-### Sprites:
+
+### Graphics:
+#### Sprites:
 Universal LPC Spritesheet Generator: https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator/#?body=Body_color_light&head=Human_male_light
 
-### Tilesets:
+#### Tilesets:
 Skorpio's SciFi Sprite Pack: https://opengameart.org/content/lpc-skorpios-scifi-sprite-pack
+
+### Engine:
+Solarus: https://solarus-games.org/
