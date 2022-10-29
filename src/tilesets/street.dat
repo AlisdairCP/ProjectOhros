@@ -1,0 +1,651 @@
+background_color{ 255, 255, 255 }
+tile_pattern{
+  id = "bpavement_1",
+  ground = "traversable",
+  default_layer = 0,
+  x = 0,
+  y = 512,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "bpavement_2",
+  ground = "traversable",
+  default_layer = 0,
+  x = 0,
+  y = 544,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "bpavement_3",
+  ground = "traversable",
+  default_layer = 0,
+  x = 0,
+  y = 576,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "bruined_01",
+  ground = "traversable",
+  default_layer = 0,
+  x = 0,
+  y = 128,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "bruined_02",
+  ground = "traversable",
+  default_layer = 0,
+  x = 32,
+  y = 128,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "bruined_03",
+  ground = "traversable",
+  default_layer = 0,
+  x = 64,
+  y = 128,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "bruined_04",
+  ground = "traversable",
+  default_layer = 0,
+  x = 0,
+  y = 160,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "bruined_05",
+  ground = "traversable",
+  default_layer = 0,
+  x = 32,
+  y = 160,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "bruined_06",
+  ground = "traversable",
+  default_layer = 0,
+  x = 64,
+  y = 160,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "bruined_07",
+  ground = "traversable",
+  default_layer = 0,
+  x = 0,
+  y = 192,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "bruined_08",
+  ground = "traversable",
+  default_layer = 0,
+  x = 32,
+  y = 192,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "bruined_09",
+  ground = "traversable",
+  default_layer = 0,
+  x = 64,
+  y = 192,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "bruined_10",
+  ground = "traversable",
+  default_layer = 0,
+  x = 0,
+  y = 224,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "bruined_11",
+  ground = "traversable",
+  default_layer = 0,
+  x = 32,
+  y = 224,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "bruined_12",
+  ground = "traversable",
+  default_layer = 0,
+  x = 64,
+  y = 224,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "curve_1",
+  ground = "traversable",
+  default_layer = 0,
+  x = 128,
+  y = 224,
+  width = 64,
+  height = 64,
+}
+
+tile_pattern{
+  id = "curve_2",
+  ground = "traversable",
+  default_layer = 0,
+  x = 208,
+  y = 224,
+  width = 64,
+  height = 64,
+}
+
+tile_pattern{
+  id = "greysquare_1",
+  ground = "traversable",
+  default_layer = 0,
+  x = 0,
+  y = 256,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "greysquare_2",
+  ground = "traversable",
+  default_layer = 0,
+  x = 32,
+  y = 256,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "greysquare_3",
+  ground = "traversable",
+  default_layer = 0,
+  x = 64,
+  y = 256,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "greysquare_4",
+  ground = "traversable",
+  default_layer = 0,
+  x = 0,
+  y = 288,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "greysquare_5",
+  ground = "traversable",
+  default_layer = 0,
+  x = 32,
+  y = 288,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "greysquare_6",
+  ground = "traversable",
+  default_layer = 0,
+  x = 64,
+  y = 288,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "greysquare_7",
+  ground = "traversable",
+  default_layer = 0,
+  x = 0,
+  y = 320,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "greysquare_8",
+  ground = "traversable",
+  default_layer = 0,
+  x = 32,
+  y = 320,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "greysquare_9",
+  ground = "traversable",
+  default_layer = 0,
+  x = 64,
+  y = 320,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "pavement_1",
+  ground = "traversable",
+  default_layer = 0,
+  x = 96,
+  y = 384,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "pavement_2",
+  ground = "traversable",
+  default_layer = 0,
+  x = 96,
+  y = 416,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "pavement_3",
+  ground = "traversable",
+  default_layer = 0,
+  x = 96,
+  y = 448,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "pavement_4",
+  ground = "traversable",
+  default_layer = 0,
+  x = 96,
+  y = 480,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "rsign_1",
+  ground = "traversable",
+  default_layer = 0,
+  x = 96,
+  y = 352,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "rsign_2",
+  ground = "traversable",
+  default_layer = 0,
+  x = 64,
+  y = 352,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "rsign_3",
+  ground = "traversable",
+  default_layer = 0,
+  x = 32,
+  y = 352,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "rsign_4",
+  ground = "traversable",
+  default_layer = 0,
+  x = 0,
+  y = 352,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "rsign_5",
+  ground = "traversable",
+  default_layer = 0,
+  x = 96,
+  y = 320,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "rsign_6",
+  ground = "traversable",
+  default_layer = 0,
+  x = 96,
+  y = 288,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "rsign_7",
+  ground = "traversable",
+  default_layer = 0,
+  x = 96,
+  y = 256,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "ruined_01",
+  ground = "traversable",
+  default_layer = 0,
+  x = 0,
+  y = 384,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "ruined_02",
+  ground = "traversable",
+  default_layer = 0,
+  x = 32,
+  y = 384,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "ruined_03",
+  ground = "traversable",
+  default_layer = 0,
+  x = 64,
+  y = 384,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "ruined_04",
+  ground = "traversable",
+  default_layer = 0,
+  x = 0,
+  y = 416,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "ruined_05",
+  ground = "traversable",
+  default_layer = 0,
+  x = 32,
+  y = 416,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "ruined_06",
+  ground = "traversable",
+  default_layer = 0,
+  x = 64,
+  y = 416,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "ruined_07",
+  ground = "traversable",
+  default_layer = 0,
+  x = 0,
+  y = 448,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "ruined_08",
+  ground = "traversable",
+  default_layer = 0,
+  x = 32,
+  y = 448,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "ruined_09",
+  ground = "traversable",
+  default_layer = 0,
+  x = 64,
+  y = 448,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "ruined_10",
+  ground = "traversable",
+  default_layer = 0,
+  x = 0,
+  y = 480,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "ruined_11",
+  ground = "traversable",
+  default_layer = 0,
+  x = 32,
+  y = 480,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "ruined_12",
+  ground = "traversable",
+  default_layer = 0,
+  x = 64,
+  y = 480,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "sign_1",
+  ground = "traversable",
+  default_layer = 0,
+  x = 96,
+  y = 96,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "sign_2",
+  ground = "traversable",
+  default_layer = 0,
+  x = 64,
+  y = 96,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "sign_3",
+  ground = "traversable",
+  default_layer = 0,
+  x = 32,
+  y = 96,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "sign_4",
+  ground = "traversable",
+  default_layer = 0,
+  x = 0,
+  y = 96,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "sign_5",
+  ground = "traversable",
+  default_layer = 0,
+  x = 96,
+  y = 64,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "sign_6",
+  ground = "traversable",
+  default_layer = 0,
+  x = 96,
+  y = 32,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "sign_7",
+  ground = "traversable",
+  default_layer = 0,
+  x = 96,
+  y = 0,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "square_1",
+  ground = "traversable",
+  default_layer = 0,
+  x = 0,
+  y = 0,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "square_2",
+  ground = "traversable",
+  default_layer = 0,
+  x = 32,
+  y = 0,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "square_3",
+  ground = "traversable",
+  default_layer = 0,
+  x = 64,
+  y = 0,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "square_4",
+  ground = "traversable",
+  default_layer = 0,
+  x = 0,
+  y = 32,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "square_5",
+  ground = "traversable",
+  default_layer = 0,
+  x = 32,
+  y = 32,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "square_6",
+  ground = "traversable",
+  default_layer = 0,
+  x = 64,
+  y = 32,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "square_7",
+  ground = "traversable",
+  default_layer = 0,
+  x = 0,
+  y = 64,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "square_8",
+  ground = "traversable",
+  default_layer = 0,
+  x = 32,
+  y = 64,
+  width = 32,
+  height = 32,
+}
+
+tile_pattern{
+  id = "square_9",
+  ground = "traversable",
+  default_layer = 0,
+  x = 64,
+  y = 64,
+  width = 32,
+  height = 32,
+}
+
