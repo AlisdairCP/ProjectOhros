@@ -415,9 +415,9 @@ destination{
 
 teletransporter{
   layer = 0,
-  x = 152,
+  x = 0,
   y = 0,
-  width = 16,
+  width = 320,
   height = 16,
   destination_map = "combat_map",
 }

@@ -14,7 +14,8 @@ local game = map:get_game()
 function map:on_started()
 
   -- You can initialize the movement and sprites of various
-  -- map entities here.
+  -- map entities here. 
+  hero:set_tunic_sprite_id("hero/lila")
 end
 
 -- Event called after the opening transition effect of the map,

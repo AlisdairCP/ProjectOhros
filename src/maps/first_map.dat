@@ -6,6 +6,7 @@ properties{
   min_layer = 0,
   max_layer = 2,
   tileset = "Street",
+  music = "Forgotten Spaceship",
 }
 
 tile{
@@ -233,43 +234,36 @@ tile{
   pattern = "bruined_02",
 }
 
-destination{
-  name = "destination",
+enemy{
   layer = 0,
-  x = 160,
-  y = 229,
-  direction = 1,
+  x = 256,
+  y = 109,
+  direction = 3,
+  breed = "agent",
 }
 
 enemy{
   layer = 0,
   x = 64,
-  y = 101,
+  y = 109,
   direction = 3,
   breed = "agent",
 }
 
-enemy{
+teletransporter{
   layer = 0,
-  x = 256,
-  y = 101,
-  direction = 3,
-  breed = "agent",
+  x = 0,
+  y = 0,
+  width = 320,
+  height = 24,
+  destination_map = "adventure_map",
 }
 
-enemy{
-  layer = 0,
-  x = 136,
-  y = 101,
-  direction = 0,
-  breed = "chameleon",
-}
-
-enemy{
-  layer = 0,
-  x = 184,
-  y = 101,
-  direction = 0,
-  breed = "chameleon",
+destination{
+  name = "destination",
+  layer = 2,
+  x = 160,
+  y = 221,
+  direction = 1,
 }
 
