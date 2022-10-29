@@ -54,3 +54,9 @@ Solarus: https://solarus-games.org/
 
 ### Music:
 Patrick de Arteaga: https://patrickdearteaga.com/
+
+### Code:
+#### Projectile data:
+Solarus: https://gitlab.com/solarus-games/solarus-alttp-pack/-/tree/dev/
+(Although Lua code was used from the Zelda ALTTP Resource Pack for Solarus, which is under the GNU General Public License
+in version 3, no sounds, names or graphics owned by Nintendo were used in this project.) 
