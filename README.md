@@ -17,7 +17,7 @@ The game takes place in the far distant future, where some humans have developed
 
 
 ## Gameplay:
-
+The game is an action-adventure game using a 2D format. The player takes control of Lila, a witch who is capable of both melee and magic abilities. These are to be used in both combat and adventure sections.
 
 ## Credits:
 ### Sprites:
