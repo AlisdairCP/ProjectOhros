@@ -9,7 +9,7 @@ A 2D action-adventure game held in the dystopian city of Araphel. You take contr
 ## Characters:
 
 ### Lila:
-A young witch who resides beyond Araphel, part of a secret clan somewhere in Ohros. It is said that flying your broom in the most fierce of storms is a sign of bravery and beauty among the witches; especially those who have recently turned 18. Not one to show herself as afraid, Lila took off into the skies when rumour buzzed that a storm had fork lightning which damaged the roof of the local pub. Sure enough, she flew too close to the lightning strikes and her broom snapped in two! The next thing she knew, she had a nasty fall into the city. Now, armed with only her spellcasting prowess, she is trying to find her way back to the outside world. She is something of a tomboy, always keeping a brave face to hide her fears amidst the danger. As she encounters a large, looming shadow, it becomes more difficult for her to keep up her mindset.
+A young witch who resides beyond Araphel, part of a secret clan somewhere in Ohros. It is said that flying your broom in the most fierce of storms is a sign of bravery and beauty among the witches; especially those who have recently turned 18. Not one to show herself as afraid, Lila took off into the skies when rumour buzzed that a storm had fork lightning which damaged the roof of the local pub. Sure enough, she flew too close to the lightning strikes and her broom snapped in two! The next thing she knew; she had a nasty fall into the city, with all her spell charges scattered across the streets. Now, armed with only her staff, she is trying to find her way back to the outside world. She is something of a tomboy, always keeping a brave face to hide her fears amidst the danger. As she encounters a large, looming shadow, it becomes more difficult for her to keep up her mindset.
 
 
 ## Setting:
@@ -23,6 +23,9 @@ The game is an action-adventure game using a 2D format. The player takes control
 
 #### Staff thrust:
 A melee attack where Lila thrusts her staff towards the enemy. Due to its magical properties, it is able to wipe out a human in a single touch.
+
+#### Spells:
+Lila can retrieve her spell charges as pickups scattered across the streets of Araphel. These allow her to perform ranged attacks which inflict much greater damage than her staff, though they cost a spell charge per use.
 
 ### Enemies:
 
