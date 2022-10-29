@@ -43,3 +43,6 @@ Skorpio's SciFi Sprite Pack: https://opengameart.org/content/lpc-skorpios-scifi-
 
 ### Engine:
 Solarus: https://solarus-games.org/
+
+### Music:
+Patrick de Arteaga: https://patrickdearteaga.com/
