@@ -32,7 +32,7 @@ end
 -- it was hurt or immobilized.
 function enemy:on_restarted()
 
-  movement = sol.movement.create("target")
+  movement = sol.movement.create("path_finding")
   movement:set_target(hero)
   movement:set_speed(48)
   movement:start(enemy)
