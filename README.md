@@ -53,10 +53,11 @@ Piskel: https://www.piskelapp.com/
 
 Magic - Pixel Art: https://opengameart.org/content/magic-pixel-art
 
+[LPC] Rat, Cat and Dog: - https://opengameart.org/content/lpc-rat-cat-and-dog
+
 #### Tilesets:
 Skorpio's SciFi Sprite Pack: 
 - https://opengameart.org/content/lpc-skorpios-scifi-sprite-pack
-- https://opengameart.org/content/lpc-rat-cat-and-dog
 
 ### Engine:
 Solarus: https://solarus-games.org/
