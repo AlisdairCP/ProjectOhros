@@ -47,3 +47,8 @@ function enemy:on_movement_changed(movement)
     end
   end
 end
+
+-- Take damage when struck physically
+function enemy:on_hurt_by_sword(hero, self)
+  enemy:remove_life(1)
+end
