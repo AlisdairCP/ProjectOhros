@@ -14,6 +14,7 @@ local game = map:get_game()
 function chase_start:on_activated()
   game:start_dialog("lila.scared")
   sol.audio.play_music("chase")
+  hero:set_walking_speed(198)
 end
 
 -- Event called at initialization time, as soon as this map is loaded.
@@ -22,6 +23,7 @@ function map:on_started()
   -- You can initialize the movement and sprites of various
   -- map entities here.
   hero:set_tunic_sprite_id("hero/lila") 
+  hero:set_walking_speed(132)
   local movement = sol.movement.create("target")
   movement:start(kislev_oval)
 end

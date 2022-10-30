@@ -16,6 +16,7 @@ function map:on_started()
   -- You can initialize the movement and sprites of various
   -- map entities here.
   hero:set_tunic_sprite_id("hero/lila") 
+  hero:set_walking_speed(132)
 end
 
 -- Event called after the opening transition effect of the map,
