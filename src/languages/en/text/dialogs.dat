@@ -1,0 +1,7 @@
+dialog{
+  id = "lila.scared",
+  text = [[
+Is someone... following me?
+]],
+}
+
