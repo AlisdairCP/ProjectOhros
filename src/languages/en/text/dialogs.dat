@@ -1,7 +1,15 @@
 dialog{
+  id = "lila.meet_kislev",
+  text = [[
+Lila: The thing chasing me was a 
+cat?
+]],
+}
+
+dialog{
   id = "lila.scared",
   text = [[
-Is someone... following me?
+Lila: Is someone... following me?!
 ]],
 }
 
