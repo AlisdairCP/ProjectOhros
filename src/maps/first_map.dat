@@ -260,10 +260,19 @@ teletransporter{
 }
 
 destination{
-  name = "destination",
+  name = "destination_back",
+  layer = 0,
+  x = 160,
+  y = 45,
+  direction = 3,
+}
+
+destination{
+  name = "destination_start",
   layer = 2,
   x = 160,
   y = 221,
   direction = 1,
+  default = true,
 }
 

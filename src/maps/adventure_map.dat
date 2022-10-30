@@ -13,63 +13,45 @@ tile{
   layer = 0,
   x = 0,
   y = 0,
-  width = 32,
+  width = 320,
   height = 32,
-  pattern = "pavement_1",
-}
-
-tile{
-  layer = 0,
-  x = 32,
-  y = 0,
-  width = 32,
-  height = 32,
-  pattern = "pavement_2",
+  pattern = "borderpave_6",
 }
 
 tile{
   layer = 0,
   x = 0,
-  y = 32,
-  width = 32,
+  y = 224,
+  width = 320,
   height = 32,
-  pattern = "pavement_1",
+  pattern = "borderpave_4",
 }
 
 tile{
   layer = 0,
   x = 0,
   y = 64,
-  width = 32,
+  width = 320,
   height = 32,
-  pattern = "pavement_1",
-}
-
-tile{
-  layer = 0,
-  x = 0,
-  y = 96,
-  width = 32,
-  height = 32,
-  pattern = "pavement_1",
-}
-
-tile{
-  layer = 0,
-  x = 0,
-  y = 128,
-  width = 32,
-  height = 32,
-  pattern = "pavement_1",
+  pattern = "square_2",
 }
 
 tile{
   layer = 0,
   x = 0,
   y = 160,
-  width = 32,
+  width = 320,
   height = 32,
-  pattern = "pavement_1",
+  pattern = "square_8",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 128,
+  width = 320,
+  height = 32,
+  pattern = "sign_6",
 }
 
 tile{
@@ -78,61 +60,7 @@ tile{
   y = 192,
   width = 32,
   height = 32,
-  pattern = "pavement_1",
-}
-
-tile{
-  layer = 0,
-  x = 0,
-  y = 224,
-  width = 32,
-  height = 32,
-  pattern = "pavement_1",
-}
-
-tile{
-  layer = 0,
-  x = 32,
-  y = 32,
-  width = 32,
-  height = 32,
-  pattern = "pavement_2",
-}
-
-tile{
-  layer = 0,
-  x = 32,
-  y = 64,
-  width = 32,
-  height = 32,
-  pattern = "pavement_2",
-}
-
-tile{
-  layer = 0,
-  x = 32,
-  y = 96,
-  width = 32,
-  height = 32,
-  pattern = "pavement_2",
-}
-
-tile{
-  layer = 0,
-  x = 32,
-  y = 128,
-  width = 32,
-  height = 32,
-  pattern = "pavement_2",
-}
-
-tile{
-  layer = 0,
-  x = 32,
-  y = 160,
-  width = 32,
-  height = 32,
-  pattern = "pavement_2",
+  pattern = "roughpave_3",
 }
 
 tile{
@@ -141,229 +69,175 @@ tile{
   y = 192,
   width = 32,
   height = 32,
-  pattern = "pavement_2",
-}
-
-tile{
-  layer = 0,
-  x = 32,
-  y = 224,
-  width = 32,
-  height = 32,
-  pattern = "pavement_2",
-}
-
-tile{
-  layer = 0,
-  x = 256,
-  y = 0,
-  width = 32,
-  height = 32,
-  pattern = "pavement_1",
-}
-
-tile{
-  layer = 0,
-  x = 288,
-  y = 0,
-  width = 32,
-  height = 32,
-  pattern = "pavement_2",
-}
-
-tile{
-  layer = 0,
-  x = 256,
-  y = 32,
-  width = 32,
-  height = 32,
-  pattern = "pavement_1",
-}
-
-tile{
-  layer = 0,
-  x = 256,
-  y = 64,
-  width = 32,
-  height = 32,
-  pattern = "pavement_1",
-}
-
-tile{
-  layer = 0,
-  x = 256,
-  y = 96,
-  width = 32,
-  height = 32,
-  pattern = "pavement_1",
-}
-
-tile{
-  layer = 0,
-  x = 256,
-  y = 128,
-  width = 32,
-  height = 32,
-  pattern = "pavement_1",
-}
-
-tile{
-  layer = 0,
-  x = 256,
-  y = 160,
-  width = 32,
-  height = 32,
-  pattern = "pavement_1",
-}
-
-tile{
-  layer = 0,
-  x = 256,
-  y = 192,
-  width = 32,
-  height = 32,
-  pattern = "pavement_1",
-}
-
-tile{
-  layer = 0,
-  x = 256,
-  y = 224,
-  width = 32,
-  height = 32,
-  pattern = "pavement_1",
-}
-
-tile{
-  layer = 0,
-  x = 288,
-  y = 32,
-  width = 32,
-  height = 32,
-  pattern = "pavement_2",
-}
-
-tile{
-  layer = 0,
-  x = 288,
-  y = 64,
-  width = 32,
-  height = 32,
-  pattern = "pavement_2",
-}
-
-tile{
-  layer = 0,
-  x = 288,
-  y = 96,
-  width = 32,
-  height = 32,
-  pattern = "pavement_2",
-}
-
-tile{
-  layer = 0,
-  x = 288,
-  y = 128,
-  width = 32,
-  height = 32,
-  pattern = "pavement_2",
-}
-
-tile{
-  layer = 0,
-  x = 288,
-  y = 160,
-  width = 32,
-  height = 32,
-  pattern = "pavement_2",
-}
-
-tile{
-  layer = 0,
-  x = 288,
-  y = 192,
-  width = 32,
-  height = 32,
-  pattern = "pavement_2",
-}
-
-tile{
-  layer = 0,
-  x = 288,
-  y = 224,
-  width = 32,
-  height = 32,
-  pattern = "pavement_2",
+  pattern = "borderpave_5",
 }
 
 tile{
   layer = 0,
   x = 64,
-  y = 0,
+  y = 192,
   width = 32,
   height = 32,
-  pattern = "square_4",
-}
-
-tile{
-  layer = 0,
-  x = 64,
-  y = 32,
-  width = 32,
-  height = 32,
-  pattern = "square_4",
-}
-
-tile{
-  layer = 0,
-  x = 64,
-  y = 64,
-  width = 32,
-  height = 192,
-  pattern = "square_4",
-}
-
-tile{
-  layer = 0,
-  x = 224,
-  y = 0,
-  width = 32,
-  height = 256,
-  pattern = "square_6",
+  pattern = "borderpave_5",
 }
 
 tile{
   layer = 0,
   x = 96,
-  y = 0,
+  y = 192,
   width = 32,
-  height = 256,
-  pattern = "sign_7",
-}
-
-tile{
-  layer = 0,
-  x = 192,
-  y = 0,
-  width = 32,
-  height = 256,
-  pattern = "sign_7",
+  height = 32,
+  pattern = "roughpave_2",
 }
 
 tile{
   layer = 0,
   x = 128,
-  y = 0,
-  width = 64,
-  height = 256,
-  pattern = "square_5",
+  y = 192,
+  width = 32,
+  height = 32,
+  pattern = "borderpave_5",
 }
 
 tile{
   layer = 0,
-  x = 72,
-  y = 40,
+  x = 160,
+  y = 192,
+  width = 32,
+  height = 32,
+  pattern = "borderpave_5",
+}
+
+tile{
+  layer = 0,
+  x = 192,
+  y = 192,
+  width = 32,
+  height = 32,
+  pattern = "roughpave_1",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 192,
+  width = 32,
+  height = 32,
+  pattern = "borderpave_5",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 192,
+  width = 32,
+  height = 32,
+  pattern = "borderpave_5",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 192,
+  width = 32,
+  height = 32,
+  pattern = "roughpave_4",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 32,
+  width = 32,
+  height = 32,
+  pattern = "roughpave_6",
+}
+
+tile{
+  layer = 0,
+  x = 32,
+  y = 32,
+  width = 32,
+  height = 32,
+  pattern = "borderpave_5",
+}
+
+tile{
+  layer = 0,
+  x = 64,
+  y = 32,
+  width = 32,
+  height = 32,
+  pattern = "borderpave_5",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 32,
+  width = 32,
+  height = 32,
+  pattern = "roughpave_5",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 32,
+  width = 32,
+  height = 32,
+  pattern = "borderpave_5",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 32,
+  width = 32,
+  height = 32,
+  pattern = "borderpave_5",
+}
+
+tile{
+  layer = 0,
+  x = 192,
+  y = 32,
+  width = 32,
+  height = 32,
+  pattern = "roughpave_8",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 32,
+  width = 32,
+  height = 32,
+  pattern = "borderpave_5",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 32,
+  width = 32,
+  height = 32,
+  pattern = "borderpave_5",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 32,
+  width = 32,
+  height = 32,
+  pattern = "roughpave_7",
+}
+
+tile{
+  layer = 0,
+  x = 40,
+  y = 72,
   width = 32,
   height = 32,
   pattern = "bruined_01",
@@ -371,8 +245,8 @@ tile{
 
 tile{
   layer = 0,
-  x = 120,
-  y = 128,
+  x = 152,
+  y = 152,
   width = 32,
   height = 32,
   pattern = "bruined_02",
@@ -380,8 +254,8 @@ tile{
 
 tile{
   layer = 0,
-  x = 72,
-  y = 224,
+  x = 256,
+  y = 72,
   width = 32,
   height = 32,
   pattern = "bruined_03",
@@ -389,36 +263,46 @@ tile{
 
 tile{
   layer = 0,
-  x = 216,
-  y = 184,
-  width = 32,
+  x = 0,
+  y = 96,
+  width = 320,
   height = 32,
-  pattern = "bruined_01",
-}
-
-tile{
-  layer = 0,
-  x = 216,
-  y = 40,
-  width = 32,
-  height = 32,
-  pattern = "bruined_03",
-}
-
-destination{
-  name = "destination",
-  layer = 0,
-  x = 160,
-  y = 237,
-  direction = 1,
+  pattern = "sign_6",
 }
 
 teletransporter{
   layer = 0,
   x = 0,
-  y = 0,
-  width = 320,
-  height = 16,
+  y = -8,
+  width = 16,
+  height = 264,
   destination_map = "combat_map",
+}
+
+destination{
+  name = "destination_start",
+  layer = 0,
+  x = 288,
+  y = 133,
+  direction = 2,
+  default = true,
+}
+
+teletransporter{
+  layer = 0,
+  x = 304,
+  y = 0,
+  width = 16,
+  height = 256,
+  destination_map = "first_map",
+  destination = "destination_back",
+}
+
+destination{
+  name = "destination_back",
+  layer = 0,
+  x = 32,
+  y = 133,
+  direction = 0,
 }
 
