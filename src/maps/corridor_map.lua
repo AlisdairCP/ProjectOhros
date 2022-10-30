@@ -15,6 +15,7 @@ function chase_start:on_activated()
   game:start_dialog("lila.scared")
   sol.audio.play_music("chase")
   hero:set_walking_speed(198)
+  chase_start:remove()
 end
 
 -- Event called at initialization time, as soon as this map is loaded.

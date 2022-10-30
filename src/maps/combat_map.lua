@@ -10,6 +10,23 @@
 local map = ...
 local game = map:get_game()
 
+function enter_kislev:on_activated()
+  local npc = map:create_npc({name = "kislev", layer = 0, x = 232, y = 120, direction = 3, subtype = 0, sprite="animals/kislev"})
+  game:start_dialog("lila.meet_kislev")
+  local movement = sol.movement.create("path_finding")
+  movement:set_target(spot)
+  movement:start(npc)
+  function npc:on_movement_changed(movement)
+    local direction4 = movement:get_direction4()
+    if direction4 then
+      for _, s in npc:get_sprites() do
+        s:set_direction(direction4)
+      end
+    end
+  end
+  enter_kislev:remove()
+end
+
 -- Event called at initialization time, as soon as this map is loaded.
 function map:on_started()
 

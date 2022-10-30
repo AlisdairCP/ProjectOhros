@@ -498,6 +498,7 @@ enemy{
   y = 85,
   direction = 0,
   breed = "robot",
+  treasure_name = "spell",
 }
 
 enemy{
@@ -506,6 +507,7 @@ enemy{
   y = 85,
   direction = 2,
   breed = "robot",
+  treasure_name = "spell",
 }
 
 enemy{
@@ -514,6 +516,7 @@ enemy{
   y = 61,
   direction = 3,
   breed = "robot",
+  treasure_name = "spell",
 }
 
 teletransporter{
@@ -566,7 +569,35 @@ destination{
   name = "destination_fall",
   layer = 0,
   x = 168,
-  y = 117,
+  y = 125,
   direction = 0,
+}
+
+sensor{
+  name = "enter_kislev",
+  layer = 0,
+  x = 168,
+  y = 125,
+  width = 16,
+  height = 16,
+}
+
+block{
+  name = "spot",
+  layer = 0,
+  x = 304,
+  y = 133,
+  sprite = "blocks/block_brown",
+  pushable = false,
+  pullable = false,
+}
+
+block{
+  layer = 0,
+  x = 304,
+  y = 165,
+  sprite = "blocks/block_brown",
+  pushable = false,
+  pullable = false,
 }
 
