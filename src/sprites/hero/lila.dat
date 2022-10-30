@@ -9,6 +9,27 @@ animation{
   },
 }
 animation{
+  name = "bow",
+  src_image = "hero/lila.png",
+  frame_delay = 70,
+  directions = {
+    { x = 0, y = 196, frame_width = 64, frame_height = 60, origin_x = 32, origin_y = 55, num_frames = 7 },
+    { x = 0, y = 4, frame_width = 64, frame_height = 60, origin_x = 32, origin_y = 55, num_frames = 7 },
+    { x = 0, y = 68, frame_width = 64, frame_height = 60, origin_x = 32, origin_y = 55, num_frames = 7 },
+    { x = 0, y = 133, frame_width = 64, frame_height = 60, origin_x = 32, origin_y = 55, num_frames = 7 },
+  },
+}
+animation{
+  name = "brandish",
+  src_image = "hero/lila.png",
+  directions = {
+    { x = 192, y = 132, frame_width = 64, frame_height = 60, origin_x = 32, origin_y = 55 },
+    { x = 192, y = 132, frame_width = 64, frame_height = 60, origin_x = 32, origin_y = 55 },
+    { x = 192, y = 132, frame_width = 64, frame_height = 60, origin_x = 32, origin_y = 55 },
+    { x = 192, y = 132, frame_width = 64, frame_height = 60, origin_x = 32, origin_y = 55 },
+  },
+}
+animation{
   name = "death",
   src_image = "hero/lila.png",
   frame_delay = 70,
@@ -30,27 +51,26 @@ animation{
   },
 }
 animation{
-  name = "spellcast",
-  src_image = "hero/lila.png",
-  frame_delay = 70,
-  frame_to_loop_on = 0,
-  directions = {
-    { x = 0, y = 196, frame_width = 64, frame_height = 60, origin_x = 32, origin_y = 55, num_frames = 7 },
-    { x = 0, y = 4, frame_width = 64, frame_height = 60, origin_x = 32, origin_y = 55, num_frames = 7 },
-    { x = 0, y = 68, frame_width = 64, frame_height = 60, origin_x = 32, origin_y = 55, num_frames = 7 },
-    { x = 0, y = 133, frame_width = 64, frame_height = 60, origin_x = 32, origin_y = 55, num_frames = 7 },
-  },
-}
-animation{
   name = "sword",
   src_image = "hero/lila.png",
   frame_delay = 70,
-  frame_to_loop_on = 0,
   directions = {
     { x = 0, y = 452, frame_width = 64, frame_height = 60, origin_x = 32, origin_y = 55, num_frames = 8 },
     { x = 0, y = 260, frame_width = 64, frame_height = 60, origin_x = 32, origin_y = 55, num_frames = 8 },
     { x = 0, y = 324, frame_width = 64, frame_height = 60, origin_x = 32, origin_y = 55, num_frames = 8 },
-    { x = 0, y = 389, frame_width = 64, frame_height = 60, origin_x = 32, origin_y = 55, num_frames = 7 },
+    { x = 0, y = 389, frame_width = 64, frame_height = 60, origin_x = 32, origin_y = 55, num_frames = 8 },
+  },
+}
+animation{
+  name = "sword_loading_stopped",
+  src_image = "hero/lila.png",
+  frame_delay = 70,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 448, y = 452, frame_width = 64, frame_height = 60, origin_x = 32, origin_y = 55 },
+    { x = 448, y = 260, frame_width = 64, frame_height = 60, origin_x = 32, origin_y = 55 },
+    { x = 448, y = 324, frame_width = 64, frame_height = 60, origin_x = 32, origin_y = 55 },
+    { x = 448, y = 389, frame_width = 64, frame_height = 60, origin_x = 32, origin_y = 55 },
   },
 }
 animation{
