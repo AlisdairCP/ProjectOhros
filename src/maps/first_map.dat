@@ -6,7 +6,7 @@ properties{
   min_layer = 0,
   max_layer = 2,
   tileset = "Street",
-  music = "Forgotten Spaceship",
+  music = "city",
 }
 
 tile{
@@ -265,6 +265,14 @@ destination{
   x = 160,
   y = 45,
   direction = 3,
+}
+
+pickable{
+  layer = 0,
+  x = 160,
+  y = 69,
+  treasure_name = "spell",
+  treasure_savegame_variable = "spell_state",
 }
 
 destination{

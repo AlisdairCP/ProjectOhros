@@ -6,7 +6,7 @@ properties{
   min_layer = 0,
   max_layer = 2,
   tileset = "street",
-  music = "Forgotten Spaceship",
+  music = "city",
 }
 
 tile{
@@ -270,6 +270,105 @@ tile{
   pattern = "sign_6",
 }
 
+tile{
+  layer = 0,
+  x = 104,
+  y = 0,
+  width = 32,
+  height = 32,
+  pattern = "lsteps_2",
+}
+
+tile{
+  layer = 0,
+  x = 104,
+  y = 32,
+  width = 32,
+  height = 32,
+  pattern = "lsteps_1",
+}
+
+tile{
+  layer = 0,
+  x = 136,
+  y = 0,
+  width = 32,
+  height = 32,
+  pattern = "lsteps_4",
+}
+
+tile{
+  layer = 0,
+  x = 136,
+  y = 32,
+  width = 32,
+  height = 32,
+  pattern = "lsteps_3",
+}
+
+tile{
+  layer = 0,
+  x = 168,
+  y = 0,
+  width = 32,
+  height = 32,
+  pattern = "lsteps_8",
+}
+
+tile{
+  layer = 0,
+  x = 168,
+  y = 32,
+  width = 32,
+  height = 32,
+  pattern = "lsteps_7",
+}
+
+tile{
+  layer = 0,
+  x = -152,
+  y = 112,
+  width = 32,
+  height = 32,
+  pattern = "bars_14",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = -8,
+  width = 32,
+  height = 64,
+  pattern = "bars_10",
+}
+
+tile{
+  layer = 0,
+  x = 72,
+  y = -8,
+  width = 32,
+  height = 64,
+  pattern = "bars_11",
+}
+
+tile{
+  layer = 0,
+  x = 72,
+  y = 56,
+  width = 32,
+  height = 32,
+  pattern = "bars_08",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 56,
+  width = 32,
+  height = 32,
+  pattern = "bars_03",
+}
+
 teletransporter{
   layer = 0,
   x = 0,
@@ -304,5 +403,155 @@ destination{
   x = 32,
   y = 133,
   direction = 0,
+}
+
+destructible{
+  layer = 0,
+  x = 192,
+  y = 77,
+  sprite = "blocks/block_brown",
+  destruction_sound = "explosion",
+  weight = -1,
+  can_explode = true,
+  damage_on_enemies = 0,
+}
+
+destructible{
+  layer = 0,
+  x = 176,
+  y = 77,
+  sprite = "blocks/block_brown",
+  destruction_sound = "explosion",
+  weight = -1,
+  can_explode = true,
+  damage_on_enemies = 0,
+}
+
+destructible{
+  layer = 0,
+  x = 160,
+  y = 77,
+  sprite = "blocks/block_brown",
+  destruction_sound = "explosion",
+  weight = -1,
+  can_explode = true,
+  damage_on_enemies = 0,
+}
+
+destructible{
+  layer = 0,
+  x = 144,
+  y = 77,
+  sprite = "blocks/block_brown",
+  destruction_sound = "explosion",
+  weight = -1,
+  can_explode = true,
+  damage_on_enemies = 0,
+}
+
+destructible{
+  layer = 0,
+  x = 128,
+  y = 77,
+  sprite = "blocks/block_brown",
+  destruction_sound = "explosion",
+  weight = -1,
+  can_explode = true,
+  damage_on_enemies = 0,
+}
+
+destructible{
+  layer = 0,
+  x = 112,
+  y = 77,
+  sprite = "blocks/block_brown",
+  destruction_sound = "explosion",
+  weight = -1,
+  can_explode = true,
+  damage_on_enemies = 0,
+}
+
+destructible{
+  layer = 0,
+  x = 192,
+  y = 93,
+  sprite = "blocks/block_brown",
+  destruction_sound = "explosion",
+  weight = -1,
+  can_explode = true,
+  damage_on_enemies = 0,
+}
+
+destructible{
+  layer = 0,
+  x = 176,
+  y = 93,
+  sprite = "blocks/block_brown",
+  destruction_sound = "explosion",
+  weight = -1,
+  can_explode = true,
+  damage_on_enemies = 0,
+}
+
+destructible{
+  layer = 0,
+  x = 160,
+  y = 93,
+  sprite = "blocks/block_brown",
+  destruction_sound = "explosion",
+  weight = -1,
+  can_explode = true,
+  damage_on_enemies = 0,
+}
+
+destructible{
+  layer = 0,
+  x = 144,
+  y = 93,
+  sprite = "blocks/block_brown",
+  destruction_sound = "explosion",
+  weight = -1,
+  can_explode = true,
+  damage_on_enemies = 0,
+}
+
+destructible{
+  layer = 0,
+  x = 128,
+  y = 93,
+  sprite = "blocks/block_brown",
+  destruction_sound = "explosion",
+  weight = -1,
+  can_explode = true,
+  damage_on_enemies = 0,
+}
+
+destructible{
+  layer = 0,
+  x = 112,
+  y = 93,
+  sprite = "blocks/block_brown",
+  destruction_sound = "explosion",
+  weight = -1,
+  can_explode = true,
+  damage_on_enemies = 0,
+}
+
+teletransporter{
+  layer = 0,
+  x = 104,
+  y = 0,
+  width = 96,
+  height = 16,
+  destination_map = "corridor_map",
+  destination = "destination",
+}
+
+destination{
+  name = "destination_stairs",
+  layer = 0,
+  x = 152,
+  y = 37,
+  direction = 3,
 }
 
