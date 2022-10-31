@@ -27,8 +27,8 @@ function enter_kislev:on_activated()
     enemy1 = map:create_enemy({name = "enemy1", layer = 0, x = 24, y = 80, direction = 0, breed = "robot", treasure_name = "spell"})
     enemy2 = map:create_enemy({name = "enemy2", layer = 0, x = 168, y = 56, direction = 3, breed = "robot", treasure_name = "spell"})
     enemy3 = map:create_enemy({name = "enemy3", layer = 0, x = 296, y = 80, direction = 2, breed = "robot", treasure_name = "spell"})
-    enemy4 = map:create_enemy({name = "enemy4", layer = 0, x = 88, y = 168, direction = 3, breed = "agent"})
-    enemy5 = map:create_enemy({name = "enemy5", layer = 0, x = 238, y = 168, direction = 3, breed = "agent"})
+    enemy4 = map:create_enemy({name = "enemy4", layer = 0, x = 88, y = 168, direction = 3, breed = "agent", treasure_name = "heart"})
+    enemy5 = map:create_enemy({name = "enemy5", layer = 0, x = 238, y = 168, direction = 3, breed = "agent", treasure_name = "heart"})
     npc_created = true
   end
   local movement = sol.movement.create("path_finding")
