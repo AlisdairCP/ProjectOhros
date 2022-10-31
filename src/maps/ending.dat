@@ -1,0 +1,28 @@
+properties{
+  x = 0,
+  y = 0,
+  width = 320,
+  height = 240,
+  min_layer = 0,
+  max_layer = 2,
+  tileset = "street",
+}
+
+destination{
+  name = "destination",
+  layer = 0,
+  x = -40,
+  y = 29,
+  direction = 1,
+}
+
+teletransporter{
+  name = "exit",
+  layer = 0,
+  x = -48,
+  y = 16,
+  width = 16,
+  height = 16,
+  destination_map = "first_map",
+}
+
