@@ -30,6 +30,16 @@ animation{
   },
 }
 animation{
+  name = "carrying_stopped",
+  src_image = "hero/lila.png",
+  directions = {
+    { x = 192, y = 132, frame_width = 64, frame_height = 60, origin_x = 32, origin_y = 55 },
+    { x = 192, y = 132, frame_width = 64, frame_height = 60, origin_x = 32, origin_y = 55 },
+    { x = 192, y = 132, frame_width = 64, frame_height = 60, origin_x = 32, origin_y = 55 },
+    { x = 192, y = 132, frame_width = 64, frame_height = 60, origin_x = 32, origin_y = 55 },
+  },
+}
+animation{
   name = "death",
   src_image = "hero/lila.png",
   frame_delay = 70,
@@ -48,6 +58,17 @@ animation{
     { x = 0, y = 4, frame_width = 64, frame_height = 60, origin_x = 32, origin_y = 55, num_frames = 4 },
     { x = 0, y = 68, frame_width = 64, frame_height = 60, origin_x = 32, origin_y = 55, num_frames = 4 },
     { x = 0, y = 133, frame_width = 64, frame_height = 60, origin_x = 32, origin_y = 55, num_frames = 4 },
+  },
+}
+animation{
+  name = "spin_attack",
+  src_image = "hero/lila.png",
+  frame_delay = 70,
+  directions = {
+    { x = 0, y = 452, frame_width = 64, frame_height = 60, origin_x = 32, origin_y = 55, num_frames = 8 },
+    { x = 0, y = 260, frame_width = 64, frame_height = 60, origin_x = 32, origin_y = 55, num_frames = 8 },
+    { x = 0, y = 324, frame_width = 64, frame_height = 60, origin_x = 32, origin_y = 55, num_frames = 8 },
+    { x = 0, y = 389, frame_width = 64, frame_height = 60, origin_x = 32, origin_y = 55, num_frames = 8 },
   },
 }
 animation{
