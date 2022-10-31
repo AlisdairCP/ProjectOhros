@@ -1,4 +1,15 @@
 dialog{
+  id = "lila.ending_text",
+  text = [[
+Lila: This is only the beginning...
+Wait for me Kislev!
+
+To be continued....
+(Press Space or C to quit)
+]],
+}
+
+dialog{
   id = "lila.meet_kislev",
   text = [[
 Lila: Uh oh! Spotted!
@@ -19,18 +30,10 @@ Lila: Is someone... following me?!
 dialog{
   id = "lila.way_out",
   text = [[
-Lila: Hey! Don't get all... wait!
+Lila: Let me read your name tag.
+Hmm... so your name is Kislev.
+Hey! Don't get all... wait!
 You know a way out?
 ]],
 }
 
-dialog{
-  id = "lila.ending_text",
-  text = [[
-Lila: This is only the beginning...
-Wait for me Kislev!
-
-To be continued....
-(Press Space or C to quit)
-]],
-}
