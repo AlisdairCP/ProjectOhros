@@ -52,3 +52,8 @@ end
 function enemy:on_hurt_by_sword(hero, self)
   enemy:remove_life(1)
 end
+
+--Instantly dies when hit by a spell.
+function enemy:on_hurt(arrow)
+  enemy:set_life(0)
+end  
