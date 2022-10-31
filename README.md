@@ -24,6 +24,9 @@ The game is an action-adventure game using a 2D format. The player takes control
 #### Staff thrust:
 A melee attack where Lila thrusts her staff towards the enemy. Due to its magical properties, it is able to wipe out a human in a single touch.
 
+#### Staff spin:
+If Lila holds her Staff thrust attack, she will conjure a blade. When charged up, the blade will perform a powerful spin attack.
+
 #### Spells:
 Lila can retrieve her spell charges as pickups scattered across the streets of Araphel. These allow her to perform ranged attacks which inflict much greater damage than her staff, though they cost a spell charge per use.
 
