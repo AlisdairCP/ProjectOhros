@@ -33,6 +33,7 @@ Lila can retrieve her spell charges as pickups scattered across the streets of A
 - Health: 1
 - Damage: 1
 - Speed: 48
+- Drop: Heart
 
 Human opponents that have been hired by the government to exterminate any mages that appear in the city.
 
@@ -40,6 +41,7 @@ Human opponents that have been hired by the government to exterminate any mages 
 - Health: 3
 - Damage: 3
 - Speed: 36
+- Drop: Spell
 
 Robots built to dispose of criminals of all kinds. Were designed to withstand magic and deal greater damager than the agents, though they move much slower. Though they can take a beating from a staff, they're as vulnerable to a big bang as anything else!
 
