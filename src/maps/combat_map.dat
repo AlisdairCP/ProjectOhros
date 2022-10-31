@@ -6,7 +6,6 @@ properties{
   min_layer = 0,
   max_layer = 2,
   tileset = "street",
-  music = "battle",
 }
 
 tile{
@@ -474,49 +473,6 @@ destination{
   x = 160,
   y = 237,
   direction = 1,
-}
-
-enemy{
-  layer = 0,
-  x = 88,
-  y = 173,
-  direction = 3,
-  breed = "agent",
-}
-
-enemy{
-  layer = 0,
-  x = 232,
-  y = 173,
-  direction = 3,
-  breed = "agent",
-}
-
-enemy{
-  layer = 0,
-  x = 24,
-  y = 85,
-  direction = 0,
-  breed = "robot",
-  treasure_name = "spell",
-}
-
-enemy{
-  layer = 0,
-  x = 296,
-  y = 85,
-  direction = 2,
-  breed = "robot",
-  treasure_name = "spell",
-}
-
-enemy{
-  layer = 0,
-  x = 168,
-  y = 61,
-  direction = 3,
-  breed = "robot",
-  treasure_name = "spell",
 }
 
 teletransporter{
