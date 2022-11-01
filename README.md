@@ -50,6 +50,10 @@ Robots built to dispose of criminals of all kinds. Were designed to withstand ma
 
 ## Credits:
 
+### Developed and written by:
+- AlisdairCP
+- OliverStuP
+
 ### Graphics:
 #### Sprites:
 Universal LPC Spritesheet Generator: https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator/#?body=Body_color_light&head=Human_male_light
