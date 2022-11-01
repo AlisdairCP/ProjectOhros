@@ -10,7 +10,7 @@ The src will not provide a build for the project in of itself.
 
 - Download Solarus installer under "For players"
 - Add quest
-- Select "ProjectOhros.solarus"
+- Select "quest.dat"
 - Play
 
 ## Premise:
