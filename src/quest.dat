@@ -1,6 +1,6 @@
 quest{
   solarus_version = "1.6",
-  write_dir = "663f9770-f2dd-46a8-86f4-ccc692819ac2",
+  write_dir = "ProjectOhros-main",
   title = "Project Ohros",
   short_description = "Entry for OpenJam 2022. A collaboration between AlisdairCP and OliverStuP.",
   long_description = [[
