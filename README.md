@@ -3,6 +3,13 @@
 ## About:
 Entry for OpenJam 2022. A collaboration between AlisdairCP and OliverStuP.
 
+## Installation:
+
+- Download Solarus installer under "For players"
+- Add quest
+- Select "ProjectOhros.solarus"
+- Play
+
 ## Premise:
 A 2D action-adventure game held in the dystopian city of Araphel. You take control of Lila, a beautiful yet dangerous witch stranded in the heart of the metropolis after an accident with her broomstick. She now has to rely on her powers and wits to escape to the outside world, Ohros. However, her situation has an unexpected escalation when she is followed by a looming shadow.... 
 
