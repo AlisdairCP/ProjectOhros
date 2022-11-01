@@ -3,6 +3,9 @@
 ## About:
 Entry for OpenJam 2022. A collaboration between AlisdairCP and OliverStuP.
 
+## Warning:
+The src will not provide a build for the project in of itself.
+
 ## Installation:
 
 - Download Solarus installer under "For players"
