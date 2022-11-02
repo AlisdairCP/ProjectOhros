@@ -3,6 +3,10 @@
 ## About:
 Entry for OpenJam 2022. A collaboration between AlisdairCP and OliverStuP.
 
+## Downloads:
+A link to the .solarus file can be found here. Here you can just load through the Solarus launcher without having to use the source code:
+https://alisdaircp.itch.io/project-ohros
+
 ## Warning:
 The src will not provide a build for the project in of itself.
 
